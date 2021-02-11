@@ -1,0 +1,5 @@
+{
+  "PORT": 5000,
+  "jwtSecret": "WitPlex",
+  "mongoURI": "mongodb+srv://areg:78564123@cluster0.wd1ws.mongodb.net/witplex?retryWrites=true&w=majority"
+}
